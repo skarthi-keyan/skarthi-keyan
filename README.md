@@ -1,0 +1,7 @@
+- 👋 Hi, I’m KARTHIKEYAN S
+- 👀 I have 5+ year Experience in Java development
+-      With other skills(Java 8, Spring boot,MySQL, Cassandra, AWS SES and SNS, Javascript, Angular
+- 🌱 I’m currently learning React
+- 📫 How to reach me Any innvovative ideas
+-     contact me : skarthi12@gmail.com
+-     Share me the idea , we will make better product.
